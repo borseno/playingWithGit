@@ -1,2 +1,7 @@
 Dev text :D
+<<<<<<< HEAD
 Dev change
+=======
+
+master text
+>>>>>>> Added master text to dev file
